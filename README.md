@@ -1,7 +1,7 @@
 ### HR Data Analytics Project
 
 ### Installation and Usage
-drive link: https://drive.google.com/file/d/1eI_y2u6t6g1F4z_wruN2Bo81BNjFc_E4/view?usp=sharing
+drive link: https://drive.google.com/file/d/1eI_y2u6t6g1F4z_wruN2Bo81BNjFc_E4/view?usp=sharing                                            
 Ensure you have Power BI Desktop installed on your system.                                                         
 Open the HR_data_analytics.pbix file in Power BI.                                                    
 Navigate through the dashboards to explore attendance, work-from-home, and sick leave patterns. 
