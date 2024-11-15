@@ -1,4 +1,11 @@
 ### HR Data Analytics Project
+
+### Installation and Usage
+drive link: https://drive.google.com/file/d/1eI_y2u6t6g1F4z_wruN2Bo81BNjFc_E4/view?usp=sharing
+Ensure you have Power BI Desktop installed on your system.                                                         
+Open the HR_data_analytics.pbix file in Power BI.                                                    
+Navigate through the dashboards to explore attendance, work-from-home, and sick leave patterns. 
+
 ### Project Overview                            
 This project focuses on analyzing employee attendance, work-from-home trends, and sick leave patterns during April, May, and June. The insights derived aim to help organizations optimize workforce planning and improve employee management practices.                                           
 
@@ -10,12 +17,7 @@ Actionable Insights: Delivered data-driven recommendations for enhancing product
 
 ### Technologies Used
 Power BI: For interactive dashboards and data visualization.                                               
-Data Sources: HR attendance records (April, May, June).                                                            
-
-### Installation and Usage
-Ensure you have Power BI Desktop installed on your system.                                                         
-Open the HR_data_analytics.pbix file in Power BI.                                                    
-Navigate through the dashboards to explore attendance, work-from-home, and sick leave patterns.              
+Data Sources: HR attendance records (April, May, June).                                                                         
 
 ### How to Interpret the Dashboards
 Attendance Dashboard: View the percentage of presence for each employee in April, May, and June.                                        
